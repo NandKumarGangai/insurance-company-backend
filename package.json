@@ -4,7 +4,7 @@
   "description": "insurance-company-backend",
   "main": "server.js",
   "scripts": {
-    "build": "rimraf build && babel src -d build",
+    "build": "rimraf build && babel src -d build --copy-files",
     "start": "node build/index",
     "dev": "nodemon src/index"
   },
