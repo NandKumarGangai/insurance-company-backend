@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Virat Kohli",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Nissan Magnite",
+        "car_make_year": "015"
+    },
+    {
+        "name": "Rohit Sharma",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Kia Sonet",
+        "car_make_year": "2016"
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Mahindra Thar",
+        "car_make_year": "2018"
+    },
+    {
+        "name": "Shreyas Ayyar",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Kia Seltos",
+        "car_make_year": "2018"
+    },
+    {
+        "name": "Sanju Samson",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Hyundai i20",
+        "car_make_year": "2018"
+    },
+    {
+        "name": "KL Rahul",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Maruti Swift",
+        "car_make_year": "2015"
+    },
+    {
+        "name": "Manish Pande",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Hyundai Creta",
+        "car_make_year": "2016"
+    },
+    {
+        "name": "Hardik Pandya",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Tata Altroz",
+        "car_make_year": "2020"
+    },
+    {
+        "name": "Ravi Jadeja",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Hyundai Venue",
+        "car_make_year": "2020"
+    },
+    {
+        "name": "Deepak Chahar",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Maruti Vitara Brezza",
+        "car_make_year": "2020"
+    },
+    {
+        "name": "Shardul Dhakur",
+        "age": 38,
+        "contact_number": "9874569874",
+        "car_model": "Toyota Fortuner",
+        "car_make_year": "2020"
+    }
+]
