@@ -4,8 +4,9 @@
   "description": "insurance-company-backend",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "build": "rimraf build && babel src -d build",
+    "start": "npm run build && node build/index",
+    "dev": "nodemon src/index"
   },
   "repository": {
     "type": "git",
@@ -25,9 +26,15 @@
     "express": "^4.17.1",
     "helmet": "^4.1.0",
     "mongoose": "^5.9.18",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "rimraf": "^3.0.2"
   },
   "devDependencies": {
+    "@babel/cli": "^7.12.8",
+    "@babel/core": "^7.12.9",
+    "@babel/preset-env": "^7.12.7",
+    "babel-minify": "^0.5.1",
+    "babel-preset-minify": "^0.5.1",
     "nodemon": "^2.0.6"
   }
 }
